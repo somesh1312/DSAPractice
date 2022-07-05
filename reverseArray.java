@@ -13,8 +13,8 @@ public class reverseArray {
     }
     static void printArray(int arr[], int size){  //function to print the array
         for(int i=0; i < size; i++){
-            System.out.println(arr[i]+"");
-            System.out.println();
+            System.out.println(arr[i]);
+
         }
     }
 
